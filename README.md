@@ -18,6 +18,14 @@
 
 [Secure Integrations with Getint](https://www.getint.io/blog/secure-integrations-with-getint)
 
+[Three of Our Apps Earn the "Rising Star" Badge on the Atlassian Marketplace](https://www.getint.io/blog/three-of-our-apps-earn-the-rising-star-badge-on-the-atlassian-marketplace)
+
+[Mastering Jira Migration: A Comprehensive Guide with Getint](https://www.getint.io/blog/mastering-jira-migration-a-comprehensive-guide-with-getint)
+
+[Elevating Security with Getint's New Logs Encryption Feature](https://www.getint.io/blog/elevating-security-with-getints-new-logs-encryption-feature)
+
+
+
 
 
 
