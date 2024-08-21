@@ -40,6 +40,17 @@
 
 [Getint Has Become an Atlassian Platinum Marketplace Partner](https://www.getint.io/blog/getint-has-become-an-atlassian-platinum-marketplace-partner)
 
+[Welcoming Marcin Kulesza to the Getint Team!](https://www.getint.io/blog/marcin-kulesza-joins-getint)
+
+[State of Developer Experience Report 2024: Summary](https://www.getint.io/blog/state-of-developer-experience-report-2024-summary)
+
+[Improving Developer Productivity: Integrated Tool Ecosystems](https://www.getint.io/blog/improving-developer-productivity-integrated-tool-ecosystems)
+
+[New Growth Team Member on Board! Welcoming Renata to the Getint!](https://www.getint.io/blog/new-growth-team-member-on-board-welcoming-renata-to-the-getint)
+
+[Azure DevOps for Jira app among New MARS™ 500 Club Apps](https://www.getint.io/blog/azure-devops-for-jira-app-among-new-mars-tm-500-club-apps)
+
+[How to Integrate ServiceNow and Jira: Step-by-Step](https://www.getint.io/blog/how-to-integrate-servicenow-jira-step-by-step)
 
 
 
