@@ -24,6 +24,22 @@
 
 [Elevating Security with Getint's New Logs Encryption Feature](https://www.getint.io/blog/elevating-security-with-getints-new-logs-encryption-feature)
 
+[Mastering Integration: Choosing the Right Tool for Your Business](https://www.getint.io/blog/mastering-integration-choosing-the-right-tool-for-your-business)
+
+[A Decade of Customer Service Expertise: Welcoming Jesus to the Getint Team](https://www.getint.io/blog/a-decade-of-customer-service-expertise-welcoming-jesus-to-the-getint-team)
+
+[Getint vs Exalate: The Ultimate Guide to Selecting the Right Integration Solution](https://www.getint.io/blog/getint-vs-exalate-the-ultimate-guide-to-selecting-the-right-integration-solution)
+
+[Stack Overflow Developer Survey 2024: Jira Leads the Way](https://www.getint.io/blog/stack-overflow-developer-survey-2024-jira-leads-the-way)
+
+[Getint: Fastest Growing Jira Integration Tool on Atlassian Marketplace](https://www.getint.io/blog/fastest-growing-jira-integration-tool-on-atlassian-marketplace)
+
+[Switching Made Simple: Your Guide to Migrating Between Jira Software and Jira Service Management](https://www.getint.io/blog/switching-made-simple-your-guide-to-migrating-between-jira-software-and-jira-service-management)
+
+
+
+
+
 
 
 
