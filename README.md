@@ -36,6 +36,9 @@
 
 [Switching Made Simple: Your Guide to Migrating Between Jira Software and Jira Service Management](https://www.getint.io/blog/switching-made-simple-your-guide-to-migrating-between-jira-software-and-jira-service-management)
 
+[A New Talent at Getint: Bartek Kalka Joins the Team](https://www.getint.io/blog/new-talent-at-getint-bartek-kalka-joins-the-team)
+
+[Getint Has Become an Atlassian Platinum Marketplace Partner](https://www.getint.io/blog/getint-has-become-an-atlassian-platinum-marketplace-partner)
 
 
 
