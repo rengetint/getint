@@ -8,3 +8,16 @@
 
 [Bridging Platforms: The Essential Guide to ServiceNow Jira Integration](https://www.getint.io/blog/bridging-platforms-the-essential-guide-to-servicenow-jira-integration)
 
+[Harnessing AI for Smarter Documentation](https://www.getint.io/blog/harnessing-ai-for-smarter-documentation)
+
+[Introducing the New Field Mapping Experience in Getint UI](https://www.getint.io/blog/introducing-the-new-field-mapping-experience-in-getint-ui)
+
+[Getint Achieves Atlassian Cloud Fortified Status](https://www.getint.io/blog/getint-achieves-atlassian-cloud-fortified-status)
+
+[Unlocking Collaboration: How to Integrate Azure DevOps with ServiceNow Effectively](https://www.getint.io/blog/unlocking-collaboration-how-to-integrate-azure-devops-with-servicenow-effectively)
+
+[Secure Integrations with Getint](https://www.getint.io/blog/secure-integrations-with-getint)
+
+
+
+
