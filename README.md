@@ -94,6 +94,23 @@
 
 [Getint's 2023 Triumph: A 4.9 Average in Customer Support Satisfaction](https://www.getint.io/blog/getints-2023-triumph-a-4-9-average-in-customer-support-satisfaction)
 
+[Integration as a Service (IaaS): Revolutionizing Agile Project Management](https://www.getint.io/blog/getint-io-new-website-2022)
+
+[A Comprehensive Guide to Jira and Azure DevOps Integration for Enterprises in 2024](https://www.getint.io/blog/how-to-set-up-azure-devops-jira-integration-step-by-step-guide)
+
+[The Essential Guide: 5 Key Considerations for Successful Software Integrations](https://www.getint.io/blog/key-considerations-successful-software-integrations)
+
+[Software migrations worksheet (Azure DevOps - Jira, ServiceNow-Jira, and more)](https://www.getint.io/blog/software-migrations-worksheet-azure-devops-jira-servicenow-jira)
+
+[Beyond Popularity: Assessing Collaboration Tools Through User Sentiments](https://www.getint.io/blog/collaboration-software-tools-sentiment-analysis-report)
+
+[Team Collaboration in Product Discovery with Integration Solutions](https://www.getint.io/blog/leveraging-software-integration-for-enhanced-collaboration)
+
+[Elevating Integration and Migration with Getint.io's Enhanced Scripting Capabilities](https://www.getint.io/blog/introducing-getint-io-advanced-scripting)
+
+[Introducing Getint.io Folders for Superior Integration Management](https://www.getint.io/blog/getint-io-folders-are-live)
+
+[Introducing the Getint Status Page for Real-time Infrastructure Health Checks](https://www.getint.io/blog/getint-io-status-page-is-live)
 
 
 
