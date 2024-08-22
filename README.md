@@ -122,7 +122,49 @@
 
 [How to Scale a Platform and Ecosystem to $10B: Atlassian Marketplace.](https://www.getint.io/blog/atlassian-marketplace-how-to-scale-a-platform-and-ecosystem-to-10b)
 
+[Integrating Jira with ServiceNow. Interview with ServiceNow expert.](https://www.getint.io/blog/jira-servicenow-integrations-expert)
+
+[Enhancing Security with Proxy Support on GetInt Platform](https://www.getint.io/blog/adding-support-for-proxy)
+
+[IntegratiON interviews E05: Discussing Jira integrations with Anna Odrynska](https://www.getint.io/blog/integration-interviews-e05-discussing-jira-integrations-with-anna-odrynska)
+
+[Introducing Oracle Database Support in GetInt's On-Premise Versions](https://www.getint.io/blog/we-added-support-for-oracle-db)
+
+[Jira integrations: Connect Jira with other systems, exchange the data bidirectionally](https://www.getint.io/blog/jira-integrations-connect-jira-with-other-systems-exchange-the-data-bidirectionally)
+
 [IntegratiON interviews E02: Discussing Jira integrations with Alex Ortiz](https://www.getint.io/blog/integration-interviews-e02-discussing-jira-integrations-with-alex-ortiz)
 
+[Introducing the new UI](https://www.getint.io/blog/we-added-support-for-oracle-db-2)
 
+[What is Jira?](https://www.getint.io/blog/what-is-jira)
+
+[Getint's Debut on Adaptavist's Atlassian Ecosystem Podcast: Our Journey So Far](https://www.getint.io/blog/getint-in-the-atlassian-ecosystem-podcast-by-adaptavist)
+
+[Interview with ChatGPT: Jira](https://www.getint.io/blog/interview-with-chatgpt-jira)
+
+[Interview with ChatGPT Part II: Jira](https://www.getint.io/blog/interview-with-chatgpt-part-ii-jira)
+
+[New feature: Items filtering pro](https://www.getint.io/blog/new-feature-items-filtering-pro)
+
+[Jira field types: Guide for IT consultants.](https://www.getint.io/blog/jira-field-types-guide-for-it-consultants)
+
+[Exploring Advanced Scripting: Navigating Through Unique Integration and Migration Scenarios with Getint](https://www.getint.io/blog/advanced-scripting-use-case-scenarios)
+
+[Interview with ChatGPT: ServiceNow](https://www.getint.io/blog/interview-with-chatgpt-servicenow)
+
+[IntegratiON interviews E04: Discussing Jira integrations with Paul Renshaw, CRO of Clearvision](https://www.getint.io/blog/integration-interviews-e04-discussing-jira-integrations-with-paul-renshaw-cro-of-clearvision)
+
+[Exciting News: Getint Platform Joins the Atlassian Marketplace Big Bounty Program!](https://www.getint.io/blog/exciting-news-getint-platform-joins-the-atlassian-marketplace-big-bounty-program)
+
+[New feature: Setting up Public/Private comments for Jira Service Desk, Zendesk, ServiceNow](https://www.getint.io/blog/new-feature-setting-up-public-private-comments-for-jira-service-desk-zendesk-servicenow)
+
+[Zendesk Jira integration 2023 guide](https://www.getint.io/blog/zendesk-jira-integration-2023-guide)
+
+[Our Journey Towards ISO 27001 and ISO 27018 Certification Begins](https://www.getint.io/blog/our-journey-towards-iso-27001-and-iso-27018-certification-begins)
+
+[Interview with ChatGPT: ServiceNow Part II](https://www.getint.io/blog/interview-with-chatgpt-servicenow-part-ii)
+
+[Monday.com Jira Integration Guide 2024](https://www.getint.io/blog/monday-jira-integration-guide)
+
+[Integration as a Service (IaaS): Revolutionizing Agile Project Management](https://www.getint.io/blog/integration-as-a-service-iaas-revolutionizing-agile-project-management)
 
