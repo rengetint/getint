@@ -52,6 +52,24 @@
 
 [How to Integrate ServiceNow and Jira: Step-by-Step](https://www.getint.io/blog/how-to-integrate-servicenow-jira-step-by-step)
 
+[Optimizing DevOps Jira Workflow: Agile Workflows Comparison with Azure Structure](https://www.getint.io/blog/what-are-the-differences-in-project-structure-between-jira-and-azure-devops)
+
+[Azure DevOps for Jira app among fastest growing apps on the Atlassian Marketplace](https://www.getint.io/blog/azure-devops-for-jira-app-among-fastest-growing-apps-on-the-atlassian-marketplace)
+
+[Beyond Integration: Getint’s Transformation into an Enterprise Integration Platform](https://www.getint.io/blog/beyond-integration-getints-transformation-into-an-enterprise-integration-platform)
+
+[Exploring Asana: From User Reviews to Unexpected Analogies](https://www.getint.io/blog/interview-with-chatgpt-asana)
+
+[Announcing Our Newest Integration: Salesforce Joins Getint’s Elite Lineup](https://www.getint.io/blog/announcing-our-newest-integration-salesforce-joins-getints-elite-lineup)
+
+[Discovering Zendesk: A Blend of Expertise and Entertainment](https://www.getint.io/blog/discovering-zendesk-a-blend-of-expertise-and-entertainment)
+
+[Announcing Our Exciting New Integration: HubSpot Joins Getint's Suite](https://www.getint.io/blog/announcing-our-exciting-new-integration-hubspot-joins-getints-suite)
+
+[Salesforce Unveiled: The Good, The Bad, and The Fictional](https://www.getint.io/blog/salesforce-unveiled-the-good-the-bad-and-the-fictional)
+
+[Unveiling Our Newest Addition: Notion Integrates with Getint's Suite](https://www.getint.io/blog/unveiling-our-newest-addition-notion-integrates-with-getints-suite)
+
 
 
 
