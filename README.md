@@ -112,10 +112,17 @@
 
 [Introducing the Getint Status Page for Real-time Infrastructure Health Checks](https://www.getint.io/blog/getint-io-status-page-is-live)
 
+[Enhanced Features and Updates on Getint: 1.25 version released on the Atlassian Marketplace](https://www.getint.io/blog/news-getint-1-25-version-released-on-the-atlassian-marketplace)
 
+[Jira - the most popular Collaboration Software Tool, according to the Sentiment Analysis report](https://www.getint.io/blog/jira-the-most-popular-collaboration-software-tool-according-to-the-sentiment-analysis-report)
 
+[Analyze Jira Data Using BigQuery Connector for Jira](https://www.getint.io/blog/analyze-jira-data-using-bigquery-connector-for-jira)
 
+[IntegratiON interviews E01: Discussing Jira integrations with Ravi Sagar](https://www.getint.io/blog/integration-interviews-e01-discussing-jira-integrations-with-ravi-sagar)
 
+[How to Scale a Platform and Ecosystem to $10B: Atlassian Marketplace.](https://www.getint.io/blog/atlassian-marketplace-how-to-scale-a-platform-and-ecosystem-to-10b)
+
+[IntegratiON interviews E02: Discussing Jira integrations with Alex Ortiz](https://www.getint.io/blog/integration-interviews-e02-discussing-jira-integrations-with-alex-ortiz)
 
 
 
