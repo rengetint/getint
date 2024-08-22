@@ -70,6 +70,31 @@
 
 [Unveiling Our Newest Addition: Notion Integrates with Getint's Suite](https://www.getint.io/blog/unveiling-our-newest-addition-notion-integrates-with-getints-suite)
 
+[Unified Service Management: Jira and Freshservice Integration for Seamless ITSM Operations](https://www.getint.io/blog/unified-service-management-jira-and-freshservice-integration-for-seamless-itsm-operations)
+
+[Elevate Your Trello: Unveiling Getint's Seamless Integration Wizardry](https://www.getint.io/blog/elevate-your-trello-unveiling-getints-seamless-integration-wizardry)
+
+[Announcing a Fresh Integration: Airtable Elevates Its Potential with Getint](https://www.getint.io/blog/announcing-a-fresh-integration-airtable-elevates-its-potential-with-getint)
+
+[Achieving Streamlined Operations: A Deep Dive into Jira-Salesforce Integration](https://www.getint.io/blog/achieving-streamlined-operations-a-deep-dive-into-jira-salesforce-integration)
+
+[Elevating Trust & Security: Getint Achieves ISO 27001 and 27018 Certifications!](https://www.getint.io/blog/elevating-trust-security-getint-achieves-iso-27001-and-27018-certifications)
+
+[Getint's Enterprise Momentum: Celebrating 1,700+ Installs and Prestigious Partnerships](https://www.getint.io/blog/getints-enterprise-momentum-celebrating-1-700-installs-and-prestigious-partnerships)
+
+[GETINT's New Logo Reveal: Celebrating Growth](https://www.getint.io/blog/unveiling-the-new-face-of-getint-a-logo-transformation-journey)
+
+[Getint Achieves Atlassian Gold Vendor Status: A Milestone Worth Celebrating!](https://www.getint.io/blog/getint-achieves-atlassian-gold-vendor-status-a-milestone-worth-celebrating)
+
+[Getint Updates: New Pricing and Key Enhancements](https://www.getint.io/blog/getint-updates-new-pricing-and-key-enhancements)
+
+[Embracing Change: Introducing Our Redesigned iPaaS Dashboard](https://www.getint.io/blog/embracing-change-introducing-our-redesigned-ipaas-dashboard)
+
+[A Golden Milestone: Celebrating Over 2,000 Installs on Atlassian Marketplace](https://www.getint.io/blog/a-golden-milestone-celebrating-over-2-000-installs-on-atlassian-marketplace)
+
+[Getint's 2023 Triumph: A 4.9 Average in Customer Support Satisfaction](https://www.getint.io/blog/getints-2023-triumph-a-4-9-average-in-customer-support-satisfaction)
+
+
 
 
 
